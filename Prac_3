@@ -1,6 +1,6 @@
 
-[16:51, 9/16/2020] Nancy...: Aim: SSH Server: Password Authentication Configure SSh Server to manage a server from the remote computer, SSH Client :(Ubuntu and Windows)
-SSH (Secure Socket Shell):
+Aim: SSH Server: Password Authentication Configure SSh Server to manage a server from the remote computer, SSH Client :(Ubuntu and Windows)
+SSH :
 Secure Socket Shell, is a protocol which allow to connect securely to a remote computer or a server by using a text-based interface.
 When a secure SSH connection is established, a shell session will be started, and we will be able to manipulate the server by typing commands within the client on your local computer.
 System and network administrators use this protocol the most, as well as anyone who needs to manage a computer remotely in a highly secure manner.
